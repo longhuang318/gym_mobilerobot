@@ -1,4 +1,4 @@
-# gym_mobilerobot
+# gym_mobilerobot （Turtlebot3, DDPG, TD3, SAC, torch, gym_mobilerobot, rospy, collision, gazebo）
 
 Openai gym compatible Deep RL environment for mobile robot navigation
 
